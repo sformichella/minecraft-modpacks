@@ -1,6 +1,6 @@
 MODRINTH_URL=https://api.modrinth.com/v2
 
-MODLIST=$(cat create-and-cc-tweaked/modlist.json)
+MODLIST=$(cat modlist.json)
 
 echo "$MODLIST" | jq -c ".[]" |
 while read -r MOD;
