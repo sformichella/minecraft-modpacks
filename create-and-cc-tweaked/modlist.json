@@ -1,260 +1,312 @@
 [
     {
+        "filename": "addonslib-neoforge-1.21.1-1.2.jar",
         "name": "Addons Lib",
         "url": "https://modrinth.com/mod/cl5ec0Qm",
         "version": "1.21.1-1.2"
     },
     {
+        "filename": "authme-neoforge-9.0.1+1.21.1.jar",
         "name": "Auth Me",
         "url": "https://modrinth.com/mod/yjgIrBjZ",
         "version": "9.0.1+1.21.1"
     },
     {
+        "filename": "balm-neoforge-1.21.1-21.0.37.jar",
         "name": "Balm",
         "url": "https://modrinth.com/mod/MBAkmtvl",
         "version": "21.0.37"
     },
     {
+        "filename": "BiomesOPlenty-neoforge-1.21.1-21.1.0.7.jar",
         "name": "Biomes O' Plenty",
         "url": "https://modrinth.com/mod/HXF82T3G",
         "version": "21.1.0.7"
     },
     {
+        "filename": "cc-tweaked-1.21.1-forge-1.115.1.jar",
         "name": "CC: Tweaked",
         "url": "https://modrinth.com/mod/gu7yAYhd",
         "version": "1.115.1"
     },
     {
+        "filename": "caelus-neoforge-7.0.1+1.21.1.jar",
         "name": "Caelus API",
         "url": "https://modrinth.com/mod/40FYwb4z",
         "version": "7.0.1+1.21.1"
     },
     {
+        "filename": "chat_heads-0.13.13-neoforge-1.21.jar",
         "name": "Chat Heads",
         "url": "https://modrinth.com/mod/Wb5oqrBJ",
         "version": "0.13.13"
     },
     {
+        "filename": "Controlling-neoforge-1.21.1-19.0.5.jar",
         "name": "Controlling",
         "url": "https://modrinth.com/mod/xv94TkTM",
         "version": "19.0.5"
     },
     {
+        "filename": "create-1.21.1-6.0.4.jar",
         "name": "Create",
         "url": "https://modrinth.com/mod/LNytGWDc",
         "version": "6.0.4"
     },
     {
+        "filename": "bellsandwhistles-0.4.7-1.21.1.jar",
         "name": "Create: Bells & Whistles",
         "url": "https://modrinth.com/mod/gJ5afkVv",
         "version": "0.4.7-1.21.1"
     },
     {
+        "filename": "ccbr-1.1.3-neoforge-1.21.1.jar",
         "name": "Create: CC Better Recipes",
         "url": "https://modrinth.com/mod/WZfuGM1m",
         "version": "1.1.3"
     },
     {
+        "filename": "create_waystones_recipes-3.0.0-NeoForge-1.21.1.jar",
         "name": "Create: Waystones Recipes",
         "url": "https://modrinth.com/mod/wQpKGqNJ",
         "version": "3.0.0-NeoForge-1.21.1"
     },
     {
+        "filename": "curios-neoforge-9.4.0+1.21.1.jar",
         "name": "Curios API",
         "url": "https://modrinth.com/mod/vvuO3ImH",
         "version": "9.4.0+1.21.1"
     },
     {
+        "filename": "DistantHorizons-neoforge-fabric-2.3.2-b-1.21.1.jar",
         "name": "Distant Horizons",
         "url": "https://modrinth.com/mod/uCdwusMi",
         "version": "2.3.2-b"
     },
     {
+        "filename": "embeddium-1.0.15+mc1.21.1.jar",
         "name": "Embeddium",
         "url": "https://modrinth.com/mod/sk9rgfiA",
         "version": "1.0.15+mc1.21.1"
     },
     {
+        "filename": "entityculling-neoforge-1.7.4-mc1.21.jar",
         "name": "EntityCulling",
         "url": "https://modrinth.com/mod/NNAgCjsB",
         "version": "1.7.4"
     },
     {
+        "filename": "ferritecore-7.0.2-neoforge.jar",
         "name": "Ferrite Core",
         "url": "https://modrinth.com/mod/uXXizFIs",
         "version": "7.0.2"
     },
     {
+        "filename": "GlitchCore-neoforge-1.21.1-2.1.0.0.jar",
         "name": "GlitchCore",
         "url": "https://modrinth.com/mod/s3dmwKy5",
         "version": "2.1.0.0"
     },
     {
+        "filename": "gravestone-neoforge-1.21.1-1.0.24.jar",
         "name": "Gravestone Mod",
         "url": "https://modrinth.com/mod/RYtXKJPr",
         "version": "1.21.1-1.0.24"
     },
     {
+        "filename": "Jade-1.21.1-NeoForge-15.9.2.jar",
         "name": "Jade",
         "url": "https://modrinth.com/mod/nvQzSEkH",
         "version": "15.9.2+neoforge"
     },
     {
+        "filename": "jei-1.21.1-neoforge-19.21.0.247.jar",
         "name": "Just Enough Items",
         "url": "https://modrinth.com/mod/u6dRKJwZ",
         "version": "19.21.0.247"
     },
     {
+        "filename": "lootr-neoforge-1.21-1.10.35.91.jar",
         "name": "Lootr",
         "url": "https://modrinth.com/mod/EltpO5cN",
         "version": "1.21-1.10.35.91"
     },
     {
+        "filename": "mcwbiomesoplenty-neoforge-1.21.1-1.1.jar",
         "name": "Macaw's Biomes O' Plenty",
         "url": "https://modrinth.com/mod/Tanquv9C",
         "version": "1.21.1-1.1"
     },
     {
+        "filename": "mcw-bridges-3.0.0-mc1.21.1neoforge.jar",
         "name": "Macaw's Bridges",
         "url": "https://modrinth.com/mod/GURcjz8O",
         "version": "3.0.0"
     },
     {
+        "filename": "mcw-doors-1.1.2-mc1.21.1neoforge.jar",
         "name": "Macaw's Doors",
         "url": "https://modrinth.com/mod/kNxa8z3e",
         "version": "1.1.2"
     },
     {
+        "filename": "mcw-fences-1.2.0-1.21.1neoforge.jar",
         "name": "Macaw's Fences and Walls",
         "url": "https://modrinth.com/mod/GmwLse2I",
         "version": "1.2.0"
     },
     {
+        "filename": "mcw-furniture-3.3.0-mc1.21.1neoforge.jar",
         "name": "Macaw's Furniture",
         "url": "https://modrinth.com/mod/dtWC90iB",
         "version": "3.3.0"
     },
     {
+        "filename": "mcw-holidays-1.1.0-mc1.21.1neoforge.jar",
         "name": "Macaw's Holidays",
         "url": "https://modrinth.com/mod/rH20L2Lp",
         "version": "1.1.0"
     },
     {
+        "filename": "mcw-lights-1.1.1-mc1.21.1neoforge.jar",
         "name": "Macaw's Lights and Lamps",
         "url": "https://modrinth.com/mod/w4an97C2",
         "version": "1.1.1"
     },
     {
+        "filename": "mcw-paintings-1.0.5-1.21.1neoforge.jar",
         "name": "Macaw's Paintings",
         "url": "https://modrinth.com/mod/okE6QVAY",
         "version": "1.0.5"
     },
     {
+        "filename": "mcw-paths-1.1.0neoforge-mc1.21.1.jar",
         "name": "Macaw's Paths and Pavings",
         "url": "https://modrinth.com/mod/VRLhWB91",
         "version": "1.1.0"
     },
     {
+        "filename": "mcw-roofs-2.3.1-mc1.21.1neoforge.jar",
         "name": "Macaw's Roofs",
         "url": "https://modrinth.com/mod/B8jaH3P1",
         "version": "2.3.1"
     },
     {
+        "filename": "mcw-stairs-1.0.1-1.21.1neoforge.jar",
         "name": "Macaw's Stairs and Balconies",
         "url": "https://modrinth.com/mod/iP3wH1ha",
         "version": "1.0.1"
     },
     {
+        "filename": "mcw-trapdoors-1.1.4-mc1.21.1neoforge.jar",
         "name": "Macaw's Trapdoors",
         "url": "https://modrinth.com/mod/n2fvCDlM",
         "version": "1.1.4"
     },
     {
+        "filename": "mcw-windows-2.3.0-mc1.21.1neoforge.jar",
         "name": "Macaw's Windows",
         "url": "https://modrinth.com/mod/C7I0BCni",
         "version": "2.3.2"
     },
     {
+        "filename": "moonlight-1.21-2.17.37-neoforge.jar",
         "name": "Moonlight Lib",
         "url": "https://modrinth.com/mod/twkfQtEc",
         "version": "1.21-2.17.37"
     },
     {
+        "filename": "MouseTweaks-neoforge-mc1.21-2.26.1.jar",
         "name": "Mouse Tweaks",
         "url": "https://modrinth.com/mod/aC3cM3Vq",
         "version": "2.26.1"
     },
     {
+        "filename": "NaturesCompass-1.21.1-3.0.3-neoforge.jar",
         "name": "Nature's Compass",
         "url": "https://modrinth.com/mod/fPetb5Kh",
         "version": "1.21.1-3.0.2-neoforge"
     },
     {
+        "filename": "netherportalfix-neoforge-1.21.1-21.1.1.jar",
         "name": "NetherPortalFix",
         "url": "https://modrinth.com/mod/nPZr02ET",
         "version": "21.1.1"
     },
     {
+        "filename": "NoChatReports-NEOFORGE-1.21.1-v2.9.1.jar",
         "name": "No Chat Reports",
         "url": "https://modrinth.com/mod/qQyHxfxd",
         "version": "1.21.1-v2.9.1"
     },
     {
+        "filename": "Patchouli-1.21-87-NEOFORGE.jar",
         "name": "Patchouli",
         "url": "https://modrinth.com/mod/nU0bVIaL",
         "version": "1.21-87-NEOFORGE"
     },
     {
+        "filename": "productivebees-1.21.1-13.6.11.jar",
         "name": "Productive Bees",
         "url": "https://modrinth.com/mod/jH6iiqkd",
         "version": "1.21.1-13.6.11"
     },
     {
+        "filename": "Searchables-neoforge-1.21.1-1.0.2.jar",
         "name": "Searchables",
         "url": "https://modrinth.com/mod/fuuu3xnx",
         "version": "1.0.2"
     },
     {
+        "filename": "silent-gear-1.21.1-neoforge-4.0.18.jar",
         "name": "Silent Gear",
         "url": "https://modrinth.com/mod/73mSSnCf",
         "version": "4.0.18"
     },
     {
+        "filename": "silent-lib-1.21.1-neoforge-10.4.0.jar",
         "name": "Silent Lib",
         "url": "https://modrinth.com/mod/BQhuHQo4",
         "version": "10.4.0"
     },
     {
+        "filename": "sophisticatedbackpacks-1.21.1-3.24.1.1212.jar",
         "name": "Sophisticated Backpacks",
         "url": "https://modrinth.com/mod/TyCTlI4b",
         "version": "3.24.1"
     },
     {
+        "filename": "sophisticatedcore-1.21.1-1.3.6.906.jar",
         "name": "Sophisticated Core",
         "url": "https://modrinth.com/mod/nmoqTijg",
         "version": "1.3.6"
     },
     {
+        "filename": "Storage Drawers-neoforge-1.21-13.8.5.jar",
         "name": "Storage Drawers",
         "url": "https://modrinth.com/mod/guitPqEi",
         "version": "13.8.5"
     },
     {
+        "filename": "supplementaries-1.21-3.0.43-beta-neoforge.jar",
         "name": "Supplementaries",
         "url": "https://modrinth.com/mod/fFEIiSDQ",
         "version": "1.21-3.0.43-beta"
     },
     {
+        "filename": "suppsquared-1.21-1.2.8-neoforge.jar",
         "name": "Supplementaries Squared",
         "url": "https://modrinth.com/mod/dCCkNFwE",
         "version": "1.21-1.2.8"
     },
     {
+        "filename": "TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
         "name": "TerraBlender",
         "url": "https://modrinth.com/mod/kkmrDlKT",
         "version": "4.1.0.8"
     },
     {
+        "filename": "waystones-neoforge-1.21.1-21.1.13.jar",
         "name": "Waystones",
         "url": "https://modrinth.com/mod/LOpKHB2A",
         "version": "21.1.13"
