@@ -8,9 +8,6 @@ do
   FILENAME=$(echo "$MOD" | jq -r ".filename")
   URL=$(echo "$MOD" | jq -r ".url")
   VERSION=$(echo "$MOD" | jq -r ".version")
-  # echo $FILENAME
-  # echo $URL
-  # echo $VERSION
   MOD_ID=${URL##*/}
 
   VERSIONS_RESPONSE=$(
@@ -27,8 +24,6 @@ do
     jq -r ".[].files[] | select(.filename==\"$FILENAME\") | .url"
   )
 
-  # echo $VERSIONS_RESPONSE
-  echo $VERSION_URL
-
-  curl "$VERSION_URL" -o "./mods/$FILENAME"
+  echo "Download $VERSION_URL..."
+  curl -s "$VERSION_URL" -o "./mods/$FILENAME"
 done
